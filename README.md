@@ -34,7 +34,7 @@
 
 >Цитата
 
-[Текст]{https://github.com/seregameiran}
+[Текст](https://github.com/seregameiran)
 
 ![Картинка](img/OIP.webp)
 
